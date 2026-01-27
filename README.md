@@ -1,6 +1,8 @@
 # 👨‍💻 Olá, eu sou o Dimitri!
 
 ## Sobre mim
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 <p align="left">
 Sou estudante do último ano de Engenharia de Software. Tenho dois anos de experiência profissional como desenvolvedor full-stack.
 
@@ -9,7 +11,6 @@ Realizei um estágio na INATEL, onde criei serviços e aplicativos do zero, dand
 Nos últimos anos, tenho estudado e trabalhado em projetos com as seguintes tecnologias: Python, React, Django, Flask, FastAPI, Docker e GenAI aplicada a essas ferramentas.
 </p>
 
----
 
 ## Tecnologias e linguagens 💻
 
@@ -20,17 +21,6 @@ Nos últimos anos, tenho estudado e trabalhado em projetos com as seguintes tecn
 
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman,notion)](https://skillicons.dev)
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left"> 
-  Sou formado como <strong>Técnica em Eletrõnica</strong> pelo CEP-Brasópolis e atualmente curso o <strong>9º período de Engenharia de Software</strong> no INATEL. <br><br>
-  Tenho me aprofundado em <strong>Python</strong>, com foco em <strong>Flask e Django</strong>. Também venho explorando tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
-  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
-</p>
-
-
 
 <p align="left">
 
