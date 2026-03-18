@@ -1,16 +1,11 @@
 # 👨‍💻 Olá, eu sou o Dimitri!
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DimitriSchulzAmado.DimitriSchulzAmado&left_color=gray&right_color=green" width="80" />
-</div>
-
-
-- 📚 Estudante do último ano de Engenharia de Software
  
-- 👨🏻‍💻 Engenheiro de Software Junior
+- 👨🏻‍💻 Engenheiro de Software com foco em desenvolvimento backend e criação de aplicações web escaláveis utilizando Python e Java. Experiente em construção de APIs, sistemas web e soluções baseadas em dados, trabalhando com tecnologias como Django, Flask, FastAPI e Spring para desenvolver aplicações robustas e eficientes.
 
-- 🛠️ Principais Ferramentas: **Python, Java, Django, FastAPI, Flask, Docker, PostgreSQL, Notion**
+- 🤖 Entusiasta de tecnologia e inteligência artificial, gosto de explorar novas formas de aplicar IA e automação para resolver problemas reais.
+  
+- 🛠️ Principais Ferramentas: **Python, Java, Spring, Django, FastAPI, Flask, Docker, PostgreSQL, Notion**
 
-- 🤖 Entusiasta de GenAI
 
 ## Contato
 
