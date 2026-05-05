@@ -1,12 +1,12 @@
 # 👨‍💻 Olá, eu sou o Dimitri!
  
-- 👨🏻‍💻 Engenheiro de Software com foco em desenvolvimento backend e criação de aplicações web escaláveis utilizando Python e Java. Experiente em construção de APIs, sistemas web e soluções baseadas em dados, trabalhando com tecnologias como Django, Flask, FastAPI e Spring para desenvolver aplicações robustas e eficientes.
+- 👨🏻‍💻 Engenheiro de Software focado em Backend e interessado na complexidade dos Sistemas Distribuídos. Com ampla experiência em Python e Java, estou atualmente imerso no ecossistema Go e em práticas de DevOps/Infraestrutura.
 
-- 🤖 Entusiasta de tecnologia e inteligência artificial, gosto de explorar novas formas de aplicar IA e automação para resolver problemas reais.
+- 🤖 Unindo minha base técnica com um forte interesse em Inteligência Artificial e automação, trabalho para construir aplicações que não apenas funcionem, mas que escalem com eficiência. Em constante evolução, busco desafios que unam tecnologia de ponta e soluções de alto impacto.
   
 - 🛠️ Principais Ferramentas:
 
-  ![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,java,spring,docker,postgres,js,html,css)
+  ![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,java,spring,go,docker,jenkins,postgres,js,html,css)
 
 
 ## Contato
