@@ -6,7 +6,7 @@
   
 - 🛠️ Principais Ferramentas:
 
-  ![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,java,spring,go,docker,jenkins,postgres,js,html,css)
+  ![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,java,spring,docker,jenkins,postgres,js,html,css)
 
 
 ## Contato
