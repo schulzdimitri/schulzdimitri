@@ -1,6 +1,6 @@
 # 👨‍💻 Olá, eu sou o Dimitri!
  
-- 👨🏻‍💻 Engenheiro de Software focado em Backend e interessado na complexidade dos Sistemas Distribuídos. Com ampla experiência em Python e Java, estou atualmente imerso no ecossistema Go e em práticas de DevOps/Infraestrutura.
+- 👨🏻‍💻 Engenheiro de Software focado em Backend e interessado na complexidade dos Sistemas Distribuídos. Com ampla experiência em programação assistida por IA com Python e Java, estou atualmente imerso no ecossistema Python e em práticas com IA agêntica.
 
 - 🤖 Unindo minha base técnica com um forte interesse em Inteligência Artificial e automação, trabalho para construir aplicações que não apenas funcionem, mas que escalem com eficiência. Em constante evolução, busco desafios que unam tecnologia de ponta e soluções de alto impacto.
   
