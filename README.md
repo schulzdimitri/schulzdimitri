@@ -1,10 +1,10 @@
-# 👨‍💻 Olá, eu sou o Dimitri!
- 
-- 👨🏻‍💻 Engenheiro de Software focado em Backend e interessado na complexidade dos Sistemas Distribuídos. Com ampla experiência em programação assistida por IA com Python e Java, estou atualmente imerso no ecossistema Python e em práticas com IA agêntica.
+# 👨‍💻 What's up, I’m Dimitri!
 
-- 🤖 Unindo minha base técnica com um forte interesse em Inteligência Artificial e automação, trabalho para construir aplicações que não apenas funcionem, mas que escalem com eficiência. Em constante evolução, busco desafios que unam tecnologia de ponta e soluções de alto impacto.
-  
-- 🛠️ Principais Ferramentas:
+- 👨🏻‍💻 A Software Engineer focused on backend development, with a keen interest in the complexities of distributed systems. With extensive experience in AI-assisted programming using Python and Java, I am currently deeply immersed in the Python ecosystem and the practice of building AI-driven autonomous agents.
+
+- 🤖 By combining my technical foundation with a strong interest in artificial intelligence and automation, I build applications that not only function well but also scale efficiently. I am constantly evolving and seeking challenges that integrate cutting-edge technology with high-impact solutions.
+
+- 🛠️ Key Tools:
 
   ![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,java,spring,docker,jenkins,postgres,js,html,css)
 
