@@ -9,7 +9,7 @@
   ![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,java,spring,docker,jenkins,postgres,js,html,css)
 
 
-## Contato
+## Contact
 
 [![LinkedinContact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dimitri-schulz-amado/)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:dimitri.s.amado@gmail.com)
